@@ -1,4 +1,4 @@
-Installing FlatCAM on Ubuntu
+# Installing FlatCAM on Ubuntu
 
 So FlatCAM is an essential part of my PCB milling workflow and has become increasingly difficult to install on the latest version of Ubuntu. Here’s a couple of notes on how I managed to get it running.
 
