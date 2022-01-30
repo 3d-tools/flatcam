@@ -9,6 +9,15 @@ CAD program, and create G-Code for Isolation routing.
 
 =====================================================================
 
+Some Updates on how install in an Ubuntu 20.x
+
+https://martianwabbit.com/2021/01/22/installing-flatcam-with-pyenv.html
+
+```shell
+sudo apt install libgdal-dev gdal-bin
+pip install gdal==3.0.4 --global-option=build_ext --global-option="-I/usr/include/gdal/"
+```
+
 -------------------------- Installation instructions ----------------
 
 Works with Python version 3.5 or greater and PyQt5.
